@@ -1,6 +1,8 @@
 # semTools
 Calculate discriminant validity statistics Use semTools With (In) R Software
 
+https://www.youtube.com/watch?v=t2EdZ6ZGpWI
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
